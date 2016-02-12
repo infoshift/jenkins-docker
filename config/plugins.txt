@@ -1,6 +1,7 @@
 simple-theme-plugin:latest
 git:latest
 git-client:latest
+scm-api:latest
 build-pipeline-plugin:latest
 parameterized-trigger:latest
 jquery:latest
