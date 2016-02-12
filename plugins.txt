@@ -1,4 +1,6 @@
 simple-theme-plugin:latest
-build-pipeline-plugin:latest
 git:latest
 git-client:latest
+build-pipeline-plugin:latest
+parameterized-trigger:latest
+jquery:latest
